@@ -1,0 +1,98 @@
+# Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+.ionide/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Project files
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build directories
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+ipch/
+obj/
+[Ll]og/
+[Ll]ogs/
+*.nupkg
+*.snupkg
+*.pkg
+*.tmp
+*.tmp_proj
+
+# IIS Express
+/IISExpress/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# VS 2017
+*.vcxproj.*.user
+*.modelproj.user
+*.vspxproj.user
+*.colleague
+
+# Local History for Visual Studio
+.localhistory
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Node.js
+node_modules/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Legacy stuff
+_ReSharper*/
+_ReSharper.Caches/
+logs/
